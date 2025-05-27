@@ -11,5 +11,9 @@ Goals and Tasks:
 - Analyze the impact of weather factors
 - Provide financial assessment of the implementation
 
+## Structure:
+- scr - Python files for preprocessing pipeline
+- notebooks - Jypiter notebooks with visualisations of preprocessing, experiments and final models calculations
+
 ## Results:
 The model improved demand forecasting accuracy for Lenta for specific groups of products.
